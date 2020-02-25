@@ -83,6 +83,4 @@ def main():
 		
 	print("\nALL DONE !")
 
-reload(sys);
-sys.setdefaultencoding('utf-8');
 main()

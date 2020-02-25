@@ -1,29 +1,32 @@
 {
+  "calendarName" : "课程表",
+  "firstWeekDate" : "20200217",
+  "totalWeek": "20",
   "classTime": [
     {
         "name":"第 1、2 节",
-        "startTime":"0800",
-        "endTime":"9050"
+        "startTime":"0750",
+        "endTime":"0925"
     },
     {
-        "name":"第 3、4 节",
-        "startTime":"1010",
-        "endTime":"1200"
+        "name":"第 3、4、5 节",
+        "startTime":"0945",
+        "endTime":"1210"
     },
     {
-        "name":"第 7、8 、9节",
-        "startTime":"1430",
-        "endTime":"1720"
+        "name":"第 6、7 节",
+        "startTime":"1400",
+        "endTime":"1530"
     },
     {
-        "name":"第 10 节",
-        "startTime":"1730",
+        "name":"第 8、9、10 节",
+        "startTime":"1555",
         "endTime":"1820"
     },
     {
         "name":"第 11、12、13 节",
-        "startTime":"1910",
-        "endTime":"2200"
+        "startTime":"1930",
+        "endTime":"2155"
     }
   ]
 }
